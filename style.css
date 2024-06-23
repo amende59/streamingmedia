@@ -185,6 +185,7 @@ main h3 {
 	border-radius: 5px;
 	text-decoration: none;
 	text-align: center;
+	position: relative;
 }
 
 .btn:hover {
